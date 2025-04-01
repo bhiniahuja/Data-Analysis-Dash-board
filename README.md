@@ -11,3 +11,5 @@ Final remarks on ensuring data accuracy and the significance of examining the fi
 ## Data Set used
 -<a href="https://drive.google.com/file/d/11dI_p4LrT8Wh2gp_-EsW7oVr5ymlIftc/view?ts=67ebba5a">Dataset</a>
 
+## Dashboard image
+https://github.com/bhiniahuja/Data-Analysis-Dash-board/blob/main/Screen%20image.docx
